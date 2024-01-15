@@ -1,0 +1,18 @@
+{
+    "positive": ["happy", "excited", "excitement", "great", "good", "content", "surprised", "blissful", "joy", "joyful", 
+        "bliss", "grateful", "serene", "thankful", "glad", "positive", "hopeful", "proud", "amused", "inspired", 
+        "interested", "satisfied", "relieved", "cheerful", "festive", "confident", "enthusiastic", "eager", 
+        "euphoric", "optimistic", "love", "loved", "energetic", "peace", "peaceful", "safe", "calm", "cozy", 
+        "amazed", "better", "enjoying", "jovial", "contentment", "amazement", "optimistic", "romantic", "nostalgic", 
+        "desired", "courageous", "brave", "victorious", "triumphant", "terrific", "accepted", "welcomed", "tender"],
+    "neutral": ["ok", "indifferent", "lazy", "okay", "apathetic", "neutral", "alright", "so-so", "fine", 
+        "meh", "shy", "reflective", "normal", "restless", "mysterious", "inactive"],
+    "negative": ["sad", "mad", "upset", "negative", "bad", "lonely", "tired", "frustrated", "jealous",
+        "angry", "shocked", "cold", "distant", "hurt", "confused", "worried", "disgusted", "hate", "hateful", 
+        "upset", "overwhelmed", "down", "blue", "annoyed", "worse", "awful", "depressed", "gloomy", "heartbroken", 
+        "disappointed", "hopeless", "unhappy", "grieved", "grieving", "lost", "trouble", "troubled", "dark", 
+        "nervous", "miserable", "doubt", "doubtful", "anxious", "terrified", "panicked", "panicky", "horrified", 
+        "desperate", "stressed", "confused", "infuriated", "bitter", "irritated", "insulted", "vengeful", 
+        "uncomfortable", "nauseated", "offended", "disturbed", "withdrawn", "pessimistic", "envy", "envious", "horrible"]
+}
+    
